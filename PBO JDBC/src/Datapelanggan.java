@@ -1,0 +1,3 @@
+interface Datapelanggan {
+    void inputCustomerData();
+}
